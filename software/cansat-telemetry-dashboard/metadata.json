@@ -1,0 +1,6 @@
+{
+  "name": "CanSat Telemetry Dashboard",
+  "description": "Dashboard de telemetría e interpretación en tiempo real para CanSat con análisis de sensores BMP280, MPU6050 y ESP32-CAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
